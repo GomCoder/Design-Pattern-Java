@@ -36,8 +36,7 @@ public class BoxDecorator extends Decorator{
 			sb.append('+');
 			return sb.toString();
 		} else {
-			return '|' + item.getString(index-1)
-			+ makeTailString(maxWidth - getLength(index-1));
+			return '|' + item.getString(index-1) + makeTailString(maxWidth - getLength(index-1));
 		}
 	}
 	
