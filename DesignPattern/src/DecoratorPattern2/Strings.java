@@ -3,7 +3,7 @@ package DecoratorPattern2;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class String extends Item{
+public class Strings extends Item{
 	private ArrayList<String> strings = new ArrayList<String>();
 	
 	public void add(String item) {
