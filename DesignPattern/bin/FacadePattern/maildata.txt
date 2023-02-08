@@ -1,0 +1,4 @@
+hyuki@example.com=Hiroshi Yuki
+youngjin@example.com=Kim Younjin
+dojun@example.com=dojun
+gildong@example.com=Hong Gildong
